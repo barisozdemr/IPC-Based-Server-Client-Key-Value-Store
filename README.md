@@ -70,5 +70,3 @@ LIST
 ## Notlar
 
 * Server çalışmadan client başlatılmamalıdır.
-* Key-value verileri RAM üzerinde tutulur.
-* Program kapatıldığında veriler silinir.
